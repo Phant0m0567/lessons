@@ -9334,5 +9334,11 @@
     "name": "Tetris",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.html"
+  },
+  {
+    "id": 1597,
+    "name": "MeowDoku",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/meowDoku/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/meowDoku/index.html"
   }
 ]
